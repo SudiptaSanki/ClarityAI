@@ -58,13 +58,14 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 
 ### Extension Not Working
 
+- Most common error is when you cannot summarize any more that means you have used up all free tokens. Then either wait for next day or you can create new API Key(From another Gemini account)
 - Try reloading the extension in `chrome://extensions/`
 - Check the browser console for error messages
 - Ensure the extension has permission to access the current page
 
 ## Privacy
 
-- Your API key is stored locally in your browser
+- Your API key is stored locally in your browser so nothing to worry no one can see it)
 - Page content is sent to Google's Gemini API for summarization
 - No data is stored on external servers
 
@@ -72,6 +73,6 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 
 If you encounter issues:
 1. Check the browser console for error messages
-2. Verify your API key is working
+2. Verify your API key is working (Use Test API button from extension)
 3. Try reloading the extension
 4. Check that the target website allows content extraction
