@@ -4,11 +4,11 @@
 
 A Chrome extension that uses Google's Gemini AI to summarize web pages.
 
-#*# What makes us different ?
+## What makes us different ?
 
 - Our extension automatically saves your last summary locally, so you won’t need to reuse API tokens every time you close it. The saved summary remains available until you generate a new one
 
-#*# Features
+## Features
 
 - 📄 Summarize any webpage with AI
 - 🎯 Multiple summary styles (short, bullets, detailed)
@@ -16,7 +16,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 - 🔧 Customizable settings
 - 🧪 API key testing functionality
 
-#*# Setup Instructions
+## Setup Instructions
 
 ### 1. Get a Gemini API Key
 
@@ -31,6 +31,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" (toggle in top right)
 4. Click "Load unpacked" and select the extension folder
+5. *Only if you didnot find it you can see any YouTube video to know you browser settings
 
 ### 3. Configure the Extension
 
@@ -46,7 +47,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 - **Context menu**: Right-click on any page and select "Summarize this page with ClarityAI"
 - **Selected text**: Select text on a page, right-click, and choose the summarize option
 
-#*# Troubleshooting
+## Troubleshooting
 
 ### "No summary yet" or "Please set your Gemini API key"
 
@@ -67,13 +68,13 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 - Check the browser console for error messages
 - Ensure the extension has permission to access the current page
 
-#*# Privacy
+## Privacy
 
 - Your API key is stored locally in your browser so nothing to worry no one can see it)
 - Page content is sent to Google's Gemini API for summarization
 - No data is stored on external servers
 
-#*# Support
+## Support
 
 If you encounter issues:
 1. Check the browser console for error messages
