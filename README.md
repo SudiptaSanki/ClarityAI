@@ -1,4 +1,4 @@
-# ClarityAI Extension (Light Mode Only)
+# ClarityAI Extension (Light Mode Theme)
 
 ![SmartSummarizer Logo](SmartSummarizer%20Logo%20with%20Paper%20and%20Digital%20Interface.png)
 
