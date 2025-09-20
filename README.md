@@ -58,7 +58,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 
 ### Extension Not Working
 
-- Most common error is when you cannot summarize any more that means you have used up all free tokens. Then either wait for next day or you can create new API Key(From another Gemini account)
+- Most common error is when you cannot summarize any more that means you have used up all free tokens. Then either wait for next day or you can create new API Key (From another Gemini account)
 - Try reloading the extension in `chrome://extensions/`
 - Check the browser console for error messages
 - Ensure the extension has permission to access the current page
