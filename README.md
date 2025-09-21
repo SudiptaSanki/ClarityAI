@@ -8,7 +8,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 
 - Our extension automatically saves your last summary locally, so you won’t need to reuse API tokens every time you close it. The saved summary remains available until you generate a new one
 
-## Features
+## Features :
 
 - 📄 Summarize any webpage with AI
 - 🎯 Multiple summary styles (short, bullets, detailed)
@@ -16,7 +16,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 - 🔧 Customizable settings
 - 🧪 API key testing functionality
 
-## Setup Instructions
+## Setup Instructions :
 
 ### 1. Get a Gemini API Key
 
@@ -47,7 +47,7 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 - **Context menu**: Right-click on any page and select "Summarize this page with ClarityAI"
 - **Selected text**: Select text on a page, right-click, and choose the summarize option
 
-## Troubleshooting
+## Troubleshooting :
 
 ### "No summary yet" or "Please set your Gemini API key"
 
@@ -55,26 +55,26 @@ A Chrome extension that uses Google's Gemini AI to summarize web pages.
 - Verify the API key is correct by using the "Test API Key" button
 - Check that you have an active internet connection
 
-### API Key Errors
+### API Key Errors :
 
 - Ensure your API key is valid and not expired
 - Check that you have sufficient quota on your Google AI Studio account
 - Verify the API key starts with "AIza..."
 
-### Extension Not Working
+### Extension Not Working :
 
 - Most common error is when you cannot summarize any more that means you have used up all free tokens. Then either wait for next day or you can create new API Key (From another Gemini account)
 - Try reloading the extension in `chrome://extensions/`
 - Check the browser console for error messages
 - Ensure the extension has permission to access the current page
 
-## Privacy
+## Privacy :
 
 - Your API key is stored locally in your browser so nothing to worry no one can see it)
 - Page content is sent to Google's Gemini API for summarization
 - No data is stored on external servers
 
-## Support
+## Support :
 
 If you encounter issues:
 1. Check the browser console for error messages
